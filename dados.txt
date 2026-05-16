@@ -1,0 +1,2 @@
+# Ficheiro de dados para registo das ocorrências técnicas
+# Este ficheiro pode ser utilizado para guardar e carregar dados do programa.
